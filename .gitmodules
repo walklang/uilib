@@ -1,0 +1,9 @@
+[submodule "buildtools/depot_tools"]
+	path = buildtools/depot_tools
+	url = https://chromium.googlesource.com/chromium/tools/depot_tools.git
+[submodule "third_party/wtl"]
+	path = third_party/wtl
+	url = https://git.code.sf.net/p/wtl/git
+[submodule "third_party/stlport"]
+	path = third_party/stlport
+	url = https://git.code.sf.net/p/stlport/code
